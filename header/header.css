@@ -2,7 +2,7 @@ header {
     width: 120rem;
     margin: auto;
     height: 8rem;
-    border-bottom: 1px solid violet;
+    border-bottom: 1px solid rgb(255, 249, 255);
     
 
     display: flex;
